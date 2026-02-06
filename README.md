@@ -1,6 +1,6 @@
 ## Welcome to my git ladies and gentlemen 👋. I'm Jose Juan or JJ!
 
-I am a versatilist and easily adapt to different roles; Sales 🤝, Consultant 💻, RPA Developer 🤖 or beginner level Data Analyst 📈, depending on what the project requires. I love exploring new technologies and use creativity to solve challenges that I faced.
+I connect business needs with useful technology. Focused on automation, agile processes, and zero complications. 🤖
 
 Don't forget to drink water 💧
 
