@@ -11,10 +11,10 @@ Don't forget to drink water 💧
 
 **About me**
 
-  - 🔍 I’m looking for an opportunity as a Data Analyst
-  - 🌱 Currently learning and improving within the tech world
-  - 💬 Ask me about anything and everything
-  - ⚡ Fun fact: I ❤️ art, football, music, pets, travel and videogames
+  - 🔍 Consultant bridging the gap between Strategy and Code.
+  - 🌱 Always learning and improving within the tech world.
+  - 💬 Ask me about how to automate your boring tasks.
+  - ⚡ Fun fact: I ❤️ art, football, music, pets, travel and videogames.
 
 
 ## Datasets 📂
