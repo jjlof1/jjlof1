@@ -2,7 +2,7 @@
 
 I connect business needs with useful technology. Focused on automation, agile processes, and zero complications. 🤖
 
-Don't forget to drink water 💧
+Don't forget to drink water! 💧
 
 <img src="https://github.com/jjlof1/jjlof1/blob/main/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
